@@ -1,0 +1,1016 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\BossState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\BossState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\EnterName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\EnterName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\DrawPic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\DrawPic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\MenuState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\MenuState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\ChangeCharacterState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\ChangeCharacterState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\EnterName.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\EnterName.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\ChangeCharacterState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\ChangeCharacterState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\BossState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\BossState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\DieuTraState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\DieuTraState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Background.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Background.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\OnOffMusic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\OnOffMusic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\OnOffMusic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\OnOffMusic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\HuongDan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\HuongDan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\WinState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\WinState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\GameOverState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\GameOverState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\WinState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\WinState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\GameOverState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\GameOverState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\DinoState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\DinoState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\MenuState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\MenuState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Boss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Boss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Dino.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Dino.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Spaceship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Spaceship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Boss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Boss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Dino.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Dino.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\PhanDien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\PhanDien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\SpaceState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\SpaceState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Sound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Sound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\SDLGameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\SDLGameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\HuongDan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\HuongDan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Spaceship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Spaceship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\PhanDien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\PhanDien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\SDLGameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\SDLGameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Sound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Sound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\InputHandle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\InputHandle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\SpaceState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\SpaceState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\DinoState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\DinoState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Octopus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Octopus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\TextureManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\TextureManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\GameStateMachine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\GameStateMachine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\DieuTraState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\DieuTraState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Octopus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Octopus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Background.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Background.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\DrawPic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\DrawPic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\TTF.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\TTF.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\LoaderParams.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\LoaderParams.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\TextureManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\TextureManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\TTF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\TTF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\GameStateMachine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\GameStateMachine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Vector2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\Vector2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\InputHandle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B30D96D3-942F-49DD-B66E-9FCAEFFF4152}|GameThatIMake\\GameThatIMake.vcxproj|solutionrelative:GameThatIMake\\InputHandle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xmemory||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\utility||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DieuTraState.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\DieuTraState.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\DieuTraState.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\DieuTraState.h",
+              "RelativeToolTip": "GameThatIMake\\DieuTraState.h",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T07:01:13.495Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Background.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Background.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\Background.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Background.cpp",
+              "RelativeToolTip": "GameThatIMake\\Background.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T09:06:35.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BossState.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\BossState.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\BossState.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\BossState.cpp*",
+              "RelativeToolTip": "GameThatIMake\\BossState.cpp*",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAQwKIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T13:18:56.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangeCharacterState.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\ChangeCharacterState.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\ChangeCharacterState.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\ChangeCharacterState.cpp",
+              "RelativeToolTip": "GameThatIMake\\ChangeCharacterState.cpp",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAAAK0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T07:24:39.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnterName.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\EnterName.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\EnterName.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\EnterName.cpp",
+              "RelativeToolTip": "GameThatIMake\\EnterName.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T07:35:48.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OnOffMusic.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\OnOffMusic.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\OnOffMusic.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\OnOffMusic.h",
+              "RelativeToolTip": "GameThatIMake\\OnOffMusic.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-03T15:36:21.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuState.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\MenuState.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\MenuState.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\MenuState.cpp",
+              "RelativeToolTip": "GameThatIMake\\MenuState.cpp",
+              "ViewState": "AQIAAB8BAAAAAAAAAAAmwEcBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T06:22:06.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BossState.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\BossState.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\BossState.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\BossState.h",
+              "RelativeToolTip": "GameThatIMake\\BossState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T13:14:31.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DieuTraState.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\DieuTraState.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\DieuTraState.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\DieuTraState.cpp",
+              "RelativeToolTip": "GameThatIMake\\DieuTraState.cpp",
+              "ViewState": "AQIAAFABAAAAAAAAAAAmwFwBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T07:22:08.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnterName.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\EnterName.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\EnterName.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\EnterName.h",
+              "RelativeToolTip": "GameThatIMake\\EnterName.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T07:33:17.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChangeCharacterState.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\ChangeCharacterState.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\ChangeCharacterState.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\ChangeCharacterState.h",
+              "RelativeToolTip": "GameThatIMake\\ChangeCharacterState.h",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T07:28:02.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrawPic.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\DrawPic.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\DrawPic.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\DrawPic.cpp",
+              "RelativeToolTip": "GameThatIMake\\DrawPic.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwEEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T09:13:37.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HuongDan.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\HuongDan.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\HuongDan.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\HuongDan.cpp",
+              "RelativeToolTip": "GameThatIMake\\HuongDan.cpp",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAQwHEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T06:56:52.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Bullet.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Bullet.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\Bullet.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Bullet.cpp",
+              "RelativeToolTip": "GameThatIMake\\Bullet.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T08:17:22.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Bullet.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Bullet.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\Bullet.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Bullet.h",
+              "RelativeToolTip": "GameThatIMake\\Bullet.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-16T14:16:14.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OnOffMusic.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\OnOffMusic.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\OnOffMusic.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\OnOffMusic.cpp",
+              "RelativeToolTip": "GameThatIMake\\OnOffMusic.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAmwGEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T15:37:19.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Button.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Button.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\Button.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Button.h",
+              "RelativeToolTip": "GameThatIMake\\Button.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T16:07:57.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameOverState.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\GameOverState.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\GameOverState.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\GameOverState.cpp",
+              "RelativeToolTip": "GameThatIMake\\GameOverState.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T09:38:27.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameOverState.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\GameOverState.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\GameOverState.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\GameOverState.h",
+              "RelativeToolTip": "GameThatIMake\\GameOverState.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T15:14:32.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WinState.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\WinState.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\WinState.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\WinState.h",
+              "RelativeToolTip": "GameThatIMake\\WinState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-02T08:13:28.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WinState.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\WinState.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\WinState.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\WinState.cpp",
+              "RelativeToolTip": "GameThatIMake\\WinState.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T08:14:48.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Boss.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Boss.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\Boss.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Boss.cpp",
+              "RelativeToolTip": "GameThatIMake\\Boss.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwB4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T13:43:25.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dino.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Dino.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\Dino.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Dino.cpp",
+              "RelativeToolTip": "GameThatIMake\\Dino.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAmwFsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T08:00:10.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Boss.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Boss.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\Boss.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Boss.h",
+              "RelativeToolTip": "GameThatIMake\\Boss.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T13:43:17.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MenuState.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\MenuState.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\MenuState.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\MenuState.h",
+              "RelativeToolTip": "GameThatIMake\\MenuState.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T08:54:53.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DinoState.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\DinoState.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\DinoState.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\DinoState.cpp",
+              "RelativeToolTip": "GameThatIMake\\DinoState.cpp",
+              "ViewState": "AQIAABQBAAAAAAAAAAAAADABAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T07:27:25.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dino.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Dino.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\Dino.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Dino.h",
+              "RelativeToolTip": "GameThatIMake\\Dino.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T03:41:06.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PhanDien.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\PhanDien.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\PhanDien.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\PhanDien.cpp",
+              "RelativeToolTip": "GameThatIMake\\PhanDien.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T13:50:50.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Spaceship.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Spaceship.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\Spaceship.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Spaceship.cpp",
+              "RelativeToolTip": "GameThatIMake\\Spaceship.cpp",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwEAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T07:27:51.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Button.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Button.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\Button.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Button.cpp",
+              "RelativeToolTip": "GameThatIMake\\Button.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T07:24:39.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SpaceState.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\SpaceState.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\SpaceState.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\SpaceState.cpp",
+              "RelativeToolTip": "GameThatIMake\\SpaceState.cpp",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAmwJAAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T13:56:57.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Sound.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Sound.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\Sound.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Sound.cpp",
+              "RelativeToolTip": "GameThatIMake\\Sound.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-04T10:14:19.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SDLGameObject.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\SDLGameObject.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\SDLGameObject.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\SDLGameObject.cpp",
+              "RelativeToolTip": "GameThatIMake\\SDLGameObject.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T08:14:08.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "InputHandle.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\InputHandle.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\InputHandle.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\InputHandle.cpp",
+              "RelativeToolTip": "GameThatIMake\\InputHandle.cpp",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAACoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T13:37:47.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Sound.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Sound.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\Sound.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Sound.h",
+              "RelativeToolTip": "GameThatIMake\\Sound.h",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T09:10:01.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PhanDien.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\PhanDien.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\PhanDien.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\PhanDien.h",
+              "RelativeToolTip": "GameThatIMake\\PhanDien.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T07:51:25.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Spaceship.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Spaceship.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\Spaceship.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Spaceship.h",
+              "RelativeToolTip": "GameThatIMake\\Spaceship.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T09:10:02.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HuongDan.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\HuongDan.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\HuongDan.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\HuongDan.h",
+              "RelativeToolTip": "GameThatIMake\\HuongDan.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-22T06:55:11.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SDLGameObject.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\SDLGameObject.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\SDLGameObject.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\SDLGameObject.h",
+              "RelativeToolTip": "GameThatIMake\\SDLGameObject.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-12T13:43:46.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DinoState.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\DinoState.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\DinoState.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\DinoState.h",
+              "RelativeToolTip": "GameThatIMake\\DinoState.h",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAawDEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T07:27:13.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "xmemory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xmemory",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xmemory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xmemory",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xmemory",
+              "ViewState": "AQIAACoFAAAAAAAAAAAUwDYFAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-06T12:43:29.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "utility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\utility",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\utility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\utility",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\utility",
+              "ViewState": "AQIAAPkCAAAAAAAAAAAAAPkCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-16T06:24:21.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\vector",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAgwMUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-03T07:22:34.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SpaceState.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\SpaceState.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\SpaceState.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\SpaceState.h",
+              "RelativeToolTip": "GameThatIMake\\SpaceState.h",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwC8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T13:56:02.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Game.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\Game.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Game.cpp",
+              "RelativeToolTip": "GameThatIMake\\Game.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAC4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-06T07:49:55.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GameObject.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\GameObject.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\GameObject.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\GameObject.h",
+              "RelativeToolTip": "GameThatIMake\\GameObject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-09T13:21:23.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Octopus.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Octopus.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\Octopus.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Octopus.h",
+              "RelativeToolTip": "GameThatIMake\\Octopus.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-16T06:37:32.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TextureManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\TextureManager.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\TextureManager.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\TextureManager.cpp",
+              "RelativeToolTip": "GameThatIMake\\TextureManager.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T08:54:14.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GameStateMachine.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\GameStateMachine.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\GameStateMachine.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\GameStateMachine.cpp",
+              "RelativeToolTip": "GameThatIMake\\GameStateMachine.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T07:43:10.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Octopus.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Octopus.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\Octopus.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Octopus.cpp",
+              "RelativeToolTip": "GameThatIMake\\Octopus.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T06:38:04.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Background.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Background.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\Background.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Background.h",
+              "RelativeToolTip": "GameThatIMake\\Background.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T09:08:59.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DrawPic.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\DrawPic.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\DrawPic.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\DrawPic.h",
+              "RelativeToolTip": "GameThatIMake\\DrawPic.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T09:12:30.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TTF.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\TTF.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\TTF.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\TTF.h",
+              "RelativeToolTip": "GameThatIMake\\TTF.h",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T07:57:05.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LoaderParams.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\LoaderParams.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\LoaderParams.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\LoaderParams.h",
+              "RelativeToolTip": "GameThatIMake\\LoaderParams.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T16:06:43.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\main.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\main.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\main.cpp",
+              "RelativeToolTip": "GameThatIMake\\main.cpp",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswB4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T15:02:56.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Game.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\Game.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Game.h",
+              "RelativeToolTip": "GameThatIMake\\Game.h",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T07:50:02.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TextureManager.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\TextureManager.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\TextureManager.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\TextureManager.h",
+              "RelativeToolTip": "GameThatIMake\\TextureManager.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T15:19:20.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TTF.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\TTF.cpp",
+              "RelativeDocumentMoniker": "GameThatIMake\\TTF.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\TTF.cpp",
+              "RelativeToolTip": "GameThatIMake\\TTF.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T08:15:45.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GameStateMachine.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\GameStateMachine.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\GameStateMachine.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\GameStateMachine.h",
+              "RelativeToolTip": "GameThatIMake\\GameStateMachine.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-09T13:22:27.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Vector2D.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Vector2D.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\Vector2D.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\Vector2D.h",
+              "RelativeToolTip": "GameThatIMake\\Vector2D.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T07:32:50.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GameState.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\GameState.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\GameState.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\GameState.h",
+              "RelativeToolTip": "GameThatIMake\\GameState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T07:51:08.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "InputHandle.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\InputHandle.h",
+              "RelativeDocumentMoniker": "GameThatIMake\\InputHandle.h",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\gameMe\\GameThatIMake\\GameThatIMake\\InputHandle.h",
+              "RelativeToolTip": "GameThatIMake\\InputHandle.h",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T16:06:27.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
